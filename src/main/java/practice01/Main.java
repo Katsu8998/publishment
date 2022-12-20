@@ -15,7 +15,7 @@ public class Main {
 			String title = sc.nextLine();
 
 			if (title.equals("漫画")) {
-				// コントラクタを使用したいため、listを採用。
+				// コントラクタとlistを使用したいため、下記のソースコードになっています。
 				List<Books> book = new ArrayList<Books>();
 				book.add(new Books(title, "内容", 200, ""));
 
