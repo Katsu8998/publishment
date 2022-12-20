@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: practice01Test.Practice01Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.069 s <<< FAILURE! - in practice01Test.Practice01Test
+practice01Test.Practice01Test.test  Time elapsed: 0.038 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: まだ実装されていません
+	at practice01Test.Practice01Test.test(Practice01Test.java:11)
+
